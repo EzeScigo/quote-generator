@@ -1,0 +1,4 @@
+https://www.goodreads.com/api
+
+key: nCJ9BTizWWK3nDj7uO9hw
+secret: qCHB0oTW4B0BDZtQGHYCBUnH5gCXpnMyPOXUkg3kI
